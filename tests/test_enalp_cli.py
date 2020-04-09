@@ -4,7 +4,7 @@ from click.testing import CliRunner
 
 
 def test_version():
-    assert __version__ == '0.0.3'
+    assert __version__ == '0.1.0'
 
 
 def test_tokens_word():
