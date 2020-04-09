@@ -3,17 +3,12 @@
 + Purpose: for tokenization, part of speech, sentiment analysis, translations, etc.
 
 ### Installation
-'''bash
-
+bash
 +pip install enalp-cli
-
 +check that ".local/bin" is in your PATH 
 
-'''
-
 ### Basic usage
-''' 
->>>> enalp_cli --help
->>>> enalp_cli about
->>>> enalp_cli [COMMAND] --help
-'''
+bash
++enalp_cli --help
++enalp_cli about
++enalp_cli [COMMAND] --help
