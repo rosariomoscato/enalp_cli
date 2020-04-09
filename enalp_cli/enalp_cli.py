@@ -35,7 +35,7 @@ POS_dict = {'CC':'coordinating conjunction','CD':'cardinal digit','DT':'determin
 }
 
 @click.group(cls=HelpColorsGroup,help_headers_color='yellow',help_options_color='cyan')
-@click.version_option(version='0.0.3', prog_name='ENALP CLI')
+@click.version_option(version='0.1.0', prog_name='ENALP CLI')
 def main():
 	""" ENALP CLI """
 	pass
