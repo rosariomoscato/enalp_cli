@@ -12,3 +12,6 @@ bash
 + enalp_cli --help
 + enalp_cli about
 + enalp_cli [COMMAND] --help
+
+### License
+MIT
