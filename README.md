@@ -14,4 +14,8 @@ bash
 + enalp_cli [COMMAND] --help
 
 ### License
-MIT
++ MIT
+
+### Author
++ Rosario Moscato
++ https://www.linkedin.com/in/rosariomoscato
