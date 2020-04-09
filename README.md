@@ -4,11 +4,11 @@
 
 ### Installation
 bash
-+pip install enalp-cli
-+check that ".local/bin" is in your PATH 
++ pip install enalp-cli
++ check that ".local/bin" is in your PATH 
 
 ### Basic usage
 bash
-+enalp_cli --help
-+enalp_cli about
-+enalp_cli [COMMAND] --help
++ enalp_cli --help
++ enalp_cli about
++ enalp_cli [COMMAND] --help
