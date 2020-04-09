@@ -1,7 +1,3 @@
-# Leet
-# Reverse
-# MixUp
-
 # Core Pkgs
 import click
 from pyfiglet import Figlet
